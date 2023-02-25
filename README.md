@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">I'm still in the learning phase</h3>
 <p align="center">
-  <img src="https://gifdb.com/gif/sasuke-amaterasu-technique-jqpnzme2n2rr4jz5.html" width="480" height="270" frameBorder="0" allowFullScreen></img>
+  <img src="<iframe src="https://giphy.com/embed/26u4nJPf0JtQPdStq" width="480" height="184" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pixels-github-commit-26u4nJPf0JtQPdStq">via GIPHY</a></p>" width="480" height="270" frameBorder="0" allowFullScreen></img>
 </p>
 
 
