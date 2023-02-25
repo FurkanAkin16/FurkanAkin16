@@ -1,14 +1,5 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">I'm still in the learning phase</h3>
-<p align="center">
-  <img src="<iframe src="https://giphy.com/embed/26u4nJPf0JtQPdStq" width="480" height="184" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pixels-github-commit-26u4nJPf0JtQPdStq">via GIPHY</a></p>" width="480" height="270" frameBorder="0" allowFullScreen></img>
-</p>
-
-
-
-
-
-
 
 <p align="left"> <a href="https://twitter.com/majorzfps" target="blank"><img src="https://img.shields.io/twitter/follow/majorzfps?logo=twitter&style=for-the-badge" alt="majorzfps" /></a> </p>
 
