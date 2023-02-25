@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">I'm still in the learning phase</h3>
 <p align="center">
-  <img src="[https://tenor.com/tr/view/shinra-tensei-gif-19640651](https://tenor.com/buzAR.gif)" width="480" height="270" frameBorder="0" allowFullScreen></img>
+  <img src="<iframe src="https://giphy.com/embed/I6wUi5eTdUCWI" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sasuke-I6wUi5eTdUCWI">via GIPHY</a></p>" width="480" height="270" frameBorder="0" allowFullScreen></img>
 </p>
 
 
