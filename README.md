@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">I'm still in the learning phase</h3>
 <p align="center">
-  <img src="https://tenor.com/tr/view/shinra-tensei-gif-19640651" width="480" height="270" frameBorder="0" allowFullScreen></img>
+  <img src="[https://tenor.com/tr/view/shinra-tensei-gif-19640651](https://tenor.com/buzAR.gif)" width="480" height="270" frameBorder="0" allowFullScreen></img>
 </p>
 
 
