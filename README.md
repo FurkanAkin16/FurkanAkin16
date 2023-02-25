@@ -1,5 +1,16 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">I'm still in the learning phase</h3>
+<p align="center">
+  <img src="(https://images.app.goo.gl/qRUw44CByrDDJdLHA)" width="480" height="270" frameBorder="0" allowFullScreen></img>
+</p>
+
+
+
+
+
+
+
+
 
 <p align="left"> <a href="https://twitter.com/majorzfps" target="blank"><img src="https://img.shields.io/twitter/follow/majorzfps?logo=twitter&style=for-the-badge" alt="majorzfps" /></a> </p>
 
